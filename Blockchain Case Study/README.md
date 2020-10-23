@@ -7,6 +7,9 @@ Coinsquare is one of the world’s premier cryptocurrency platforms for trading 
 
 Coinsquare’s mission is to create a regulated and open financial platform for the world by leveraging blockchain technology.
 
+### Main Features
+![Main Features](images/coinsquare.png)
+
 
 ### Challenge
 In 2018, the frenzy over cryptocurrency reached an all-time high. While everyone seemed to be talking about the hottest investment of the year, the actual number of people with the confidence to invest was quite small. As one of Canada's largest players in the digital currency space with more than 100,000 customers on its trading platform, Coinsquare saw an opportunity to launch itself to a broader audience of potential investors.
